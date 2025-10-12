@@ -36,9 +36,7 @@ I'm a firm believer in lifelong learning, and I'm currently exploring:
 
 ![Gaming GIF](https://media.giphy.com/media/Vh1KrUr6Tvl1RFYYk6/giphy.gif)
 
-- Gaming Rig: Superpowered PC with an RTX 3050 , I5-11400H 11Gen  and  24Go RAM for ultimate gaming performance.
-- Favorite Game: Currently diving into the immersive world of "Valorant" and "League of legends" and having a blast!
-
+- Working Rig: Superpowered PC with an RTX 3050 , I5-11400H 11Gen  and  24Go RAM for ultimate Debugging performance.
 ## 🚀 Side Projects
 
 In my spare time, I love to work on fun and creative side projects. Here are a few of them:
