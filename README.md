@@ -32,7 +32,7 @@ I'm a firm believer in lifelong learning, and I'm currently exploring:
 - Cloud Computing and Serverless Architecture
 - Data Science and Analytics
 
-## 🎮 Gaming Setup
+## 🎮 Working Setup
 
 ![Gaming GIF](https://media.giphy.com/media/Vh1KrUr6Tvl1RFYYk6/giphy.gif)
 
