@@ -2,7 +2,9 @@
 
 > *"Our whole universe of code was in a hot, dense state, then nearly five years ago expansion started... wait!"* 💥
 
-![Sheldon Hello](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDE0bTV3eWV4Y293dTN6b3Jsb3E0aDdmcDJoc2o4YmRlYTEydjQ3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lpnJDo7ExzUymI3JEv/giphy.gif)
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDE0bTV3eWV4Y293dTN6b3Jsb3E0aDdmcDJoc2o4YmRlYTEydjQ3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lpnJDo7ExzUymI3JEv/giphy.gif" alt="Sheldon Hello" />
+</p>
 
 Hello there! I'm [Amine Beji](https://aminebeji.github.io/portfolio/), a passionate and seasoned **Senior Full-Stack Software Engineer** (with 5+ years of putting bugs in their place). Just like Sheldon Cooper's designated spot on the couch, my passion for clean code, robust architectures, and state-of-the-art technologies is the single point of consistency in an ever-changing tech world. 🧠💻
 
@@ -12,7 +14,9 @@ Hello there! I'm [Amine Beji](https://aminebeji.github.io/portfolio/), a passion
 
 > *"I'm not crazy, my compiler had me tested."* 🧪
 
-![Sheldon Whiteboard](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3a2h1emZoejkzcHFnbmRmdjJsdDY5eHFrM29taWI3ZmRhNjFiZWZiZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MdGUUTVHk7s1BA5Pyk/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3a2h1emZoejkzcHFnbmRmdjJsdDY5eHFrM29taWI3ZmRhNjFiZWZiZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MdGUUTVHk7s1BA5Pyk/giphy.gif" alt="Sheldon Whiteboard" />
+</p>
 
 - 🏢 **Technical Team Leader & Architect**: Led high-performing engineering teams to design, architect, and deploy resilient enterprise solutions from scratch. Managed development lifecycles, mentored junior/mid-level devs, and established best practices that drove product success.
 - 👨‍💻 **Senior Software Developer (5+ Years Experience)**: Spent the last 5+ years building and optimizing end-to-end full-stack web and serverless infrastructures. Re-engineered legacy microservices for peak efficiency, significantly cutting down server latency and database bottlenecks.
@@ -51,7 +55,9 @@ Hello there! I'm [Amine Beji](https://aminebeji.github.io/portfolio/), a passion
 
 > *"In an ever-changing world, this spot is a single point of consistency. It faces the TV at an angle that is neither direct... nor creates a parallax distortion."* 🛋️
 
-![Sheldon Typing](https://media.giphy.com/media/Vh1KrUr6Tvl1RFYYk6/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/Vh1KrUr6Tvl1RFYYk6/giphy.gif" alt="Sheldon Typing" />
+</p>
 
 - **Main Rig**: Superpowered dev machine with an **RTX 3050**, **Intel i5-11400H (11th Gen)**, and **24GB RAM** (Optimized for running complex AI models and heavy compilation tasks simultaneously).
 - **Secondary Gear**: Multi-monitor workspace, ergonomic seating, and an infinite supply of caffeine.
@@ -77,10 +83,14 @@ I am always thrilled to connect with fellow developers, tech leaders, AI researc
 - **LinkedIn**: [Amine Beji on LinkedIn](https://www.linkedin.com/in/amine-beji-0542501b5/)
 - **Email**: [amine.beji001@gmail.com](mailto:amine.beji001@gmail.com) - Reach out and let's build amazing things together!
 
-![Algorithm to make a friend](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3AwdW80aGRlbnVvanFidWFmeWdqOWZpbjc4cGt5c21yczJjcTl3eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/g3XM1kyHHf1f2/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3AwdW80aDRlbnVvanFidWFmeWdqOWZpbjc4cGt5c21yczJjcTl3eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/g3XM1kyHHf1f2/giphy.gif" alt="Algorithm to make a friend" />
+</p>
 
 ---
 
 *"Live long and prosper... and don't forget to star ⭐️ my repositories if you find them scientifically fascinating!"* 🖖
 
-![Sheldon Bye](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cDU2NHg4cWpmZmIwNG52enB0OTdlcTR0OXF2anZ2Zno0em03czY1MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13Syr1nwDffUcw/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cDU2NHg4cWpmZmIwNG52enB0OTdlcTR0OXF2anZ2Zno0em03czY1MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13Syr1nwDffUcw/giphy.gif" alt="Sheldon Bye" />
+</p>
