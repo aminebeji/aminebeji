@@ -34,7 +34,7 @@ Hello there! I'm [Amine Beji](https://aminebeji.github.io/portfolio/), a passion
 | :--- | :--- |
 | **Languages** | `JavaScript (ES6+)` `TypeScript` `GoLang` |
 | **Front-End** | `HTML5` `CSS3` `React.js` `Vue.js` `Next.js` |
-| **Back-End** | `Node.js` `Django` `GoLang` |
+| **Back-End** | `Node.js` `Django` `GoLang`  `FastAPI` `Flask` |
 | **Databases** | `MySQL` `MongoDB` `PostgreSQL` |
 | **Cloud & DevOps**| `Docker` `Kubernetes` `Git` `Serverless` |
 | **Productivity**  | `VS Code` `Jira` `Agile/Scrum` |
